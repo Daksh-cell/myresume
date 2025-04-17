@@ -1,0 +1,445 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Daksh Chandra Jha - Resume</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@300;400;500;600;700&family=Merriweather:wght@300;400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- Navigation Bar -->
+    <nav class="navbar">
+        <div class="container">
+            <div class="logo">
+                <a href="#home">DCJ</a>
+            </div>
+            <div class="nav-toggle" id="navToggle">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+            <ul class="nav-menu" id="navMenu">
+                <li><a href="#home" class="nav-link active">Home</a></li>
+                <li><a href="#about" class="nav-link">About</a></li>
+                <li><a href="#experience" class="nav-link">Experience</a></li>
+                <li><a href="#education" class="nav-link">Education</a></li>
+                <li><a href="#achievements" class="nav-link">Achievements</a></li>
+                <li><a href="#contact" class="nav-link">Contact</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- Home Section -->
+    <section id="home" class="hero-section">
+        <div class="container">
+            <div class="hero-content">
+                <div class="hero-text">
+                    <h1>Daksh Chandra Jha</h1>
+                    <h2>Content Writer & Digital Marketing Specialist</h2>
+                    <p>Seeking a position to utilize my skills in Content Writing, Digital Marketing, Graphic Designing and Video Editing that offers professional growth.</p>
+                    <div class="hero-buttons">
+                        <a href="#contact" class="btn primary-btn">Contact Me</a>
+                        <a href="#experience" class="btn secondary-btn">View Experience</a>
+                    </div>
+                </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="social-links">
+            <a href="#"><i class="fab fa-twitter"></i></a>
+            <a href="#"><i class="fab fa-instagram"></i></a>
+            <a href="https://www.linkedin.com/in/daksh-chandra-jha-980b00326/" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+
+
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section id="about" class="section">
+        <div class="container">
+            <div class="section-header">
+                <h2>About Me</h2>
+                <div class="section-line"></div>
+            </div>
+            
+            <div class="about-content">
+                <div class="about-text">
+                    <p>I am a motivated individual with experience in content writing, digital marketing, graphic designing, and video editing. I have a strong ability to take initiative in all aspects and possess good persuasion and communication skills.</p>
+                    <p>Currently pursuing my Bachelor's in Business Administration with a focus on Digital Business and Entrepreneurship at IIM Bangalore, I am looking for opportunities to grow professionally while being resourceful, innovative, and flexible.</p>
+                    
+                    <div class="personal-info">
+                        <div class="info-item">
+                            <span class="info-title">Name:</span>
+                            <span class="info-value">Daksh Chandra Jha</span>
+                        </div>
+                        <div class="info-item">
+                            <span class="info-title">Email:</span>
+                            <span class="info-value">daksh.jha24@iimb.ac.in</span>
+                        </div>
+                        <div class="info-item">
+                            <span class="info-title">Phone:</span>
+                            <span class="info-value">+91 8851514262</span>
+                        </div>
+                        <div class="info-item">
+                            <span class="info-title">Date of Birth:</span>
+                            <span class="info-value">7th January 2006</span>
+                        </div>
+                        <div class="info-item">
+                            <span class="info-title">Address:</span>
+                            <span class="info-value">RZH-707, Raj Nagar Part-2, Palam Colony, New Delhi-110077</span>
+                        </div>
+                        <div class="info-item">
+                            <span class="info-title">Marital Status:</span>
+                            <span class="info-value">Unmarried</span>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="skills-container">
+                    <h3>Skills & Qualifications</h3>
+                    
+                    <div class="skill-item">
+                        <div class="skill-name">
+                            <span>Content Writing</span>
+                            <span class="skill-percentage">90%</span>
+                        </div>
+                        <div class="skill-bar">
+                            <div class="skill-progress" style="width: 90%"></div>
+                        </div>
+                    </div>
+                    
+                    <div class="skill-item">
+                        <div class="skill-name">
+                            <span>Digital Marketing</span>
+                            <span class="skill-percentage">85%</span>
+                        </div>
+                        <div class="skill-bar">
+                            <div class="skill-progress" style="width: 85%"></div>
+                        </div>
+                    </div>
+                    
+                    <div class="skill-item">
+                        <div class="skill-name">
+                            <span>Graphic Designing</span>
+                            <span class="skill-percentage">80%</span>
+                        </div>
+                        <div class="skill-bar">
+                            <div class="skill-progress" style="width: 80%"></div>
+                        </div>
+                    </div>
+                    
+                    <div class="skill-item">
+                        <div class="skill-name">
+                            <span>Video Editing</span>
+                            <span class="skill-percentage">75%</span>
+                        </div>
+                        <div class="skill-bar">
+                            <div class="skill-progress" style="width: 75%"></div>
+                        </div>
+                    </div>
+                    
+                    <div class="skill-item">
+                        <div class="skill-name">
+                            <span>Communication</span>
+                            <span class="skill-percentage">95%</span>
+                        </div>
+                        <div class="skill-bar">
+                            <div class="skill-progress" style="width: 95%"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="interests-section">
+                <h3>Interests & Activities</h3>
+                <div class="interests-grid">
+                    <div class="interest-item">
+                        <i class="fas fa-plane"></i>
+                        <span>Travelling</span>
+                    </div>
+                    
+                    <div class="interest-item">
+                        <i class="fas fa-chess"></i>
+                        <span>Playing Chess</span>
+                    </div>
+                    
+                    <div class="interest-item">
+                        <i class="fas fa-music"></i>
+                        <span>Listening Music</span>
+                    </div>
+                    
+                    <div class="interest-item">
+                        <i class="fas fa-music"></i>
+                        <span>Dancing</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Experience Section -->
+    <section id="experience" class="section bg-light">
+        <div class="container">
+            <div class="section-header">
+                <h2>Work Experience</h2>
+                <div class="section-line"></div>
+            </div>
+            
+            <div class="timeline">
+                <div class="timeline-item">
+                    <div class="timeline-dot"></div>
+                    <div class="timeline-date">April 2025 - Present</div>
+                    <div class="timeline-content">
+                        <h3>Content Writer</h3>
+                        <h4>Entre Connect</h4>
+                        <p>Job Responsibilities:</p>
+                        <ul>
+                            <li>Creating content for reels</li>
+                        </ul>
+                    </div>
+                </div>
+                
+                <div class="timeline-item">
+                    <div class="timeline-dot"></div>
+                    <div class="timeline-date">April 2025 - Present</div>
+                    <div class="timeline-content">
+                        <h3>Content Writer</h3>
+                        <h4>Pehchaan The Street School - New Delhi</h4>
+                        <p>Job Responsibilities:</p>
+                        <ul>
+                            <li>Writing articles</li>
+                            <li>Advertising</li>
+                        </ul>
+                    </div>
+                </div>
+                
+                <div class="timeline-item">
+                    <div class="timeline-dot"></div>
+                    <div class="timeline-date">March - April 2025</div>
+                    <div class="timeline-content">
+                        <h3>Content Writer</h3>
+                        <h4>InAmigos Foundation - New Delhi</h4>
+                        <p>Job Responsibilities:</p>
+                        <ul>
+                            <li>Writing articles</li>
+                            <li>Advertising</li>
+                        </ul>
+                    </div>
+                </div>
+                
+                <div class="timeline-item">
+                    <div class="timeline-dot"></div>
+                    <div class="timeline-date">March 2025</div>
+                    <div class="timeline-content">
+                        <h3>Content Writer</h3>
+                        <h4>Marpu Foundation</h4>
+                        <p>Job Responsibilities:</p>
+                        <ul>
+                            <li>Creating content for social media</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Education Section -->
+    <section id="education" class="section">
+        <div class="container">
+            <div class="section-header">
+                <h2>Education</h2>
+                <div class="section-line"></div>
+            </div>
+            
+            <div class="education-content">
+                <div class="education-item">
+                    <div class="edu-year">2024 - 2027</div>
+                    <div class="edu-info">
+                        <h3>Bachelor in Business Administration</h3>
+                        <h4>Indian Institute of Management Bangalore</h4>
+                        <p>Specialization in Digital Business and Entrepreneurship</p>
+                        <p>Status: Pursuing</p>
+                    </div>
+                </div>
+                
+                <div class="education-item">
+                    <div class="edu-year">2024 - 2027</div>
+                    <div class="edu-info">
+                        <h3>Bachelor in Business Administration</h3>
+                        <h4>Guru Gobind Singh Indraprastha University, Delhi</h4>
+                        <p>Status: Pursuing</p>
+                    </div>
+                </div>
+                
+                <div class="education-item">
+                    <div class="edu-year">2023 - 2024</div>
+                    <div class="edu-info">
+                        <h3>12th Standard, CBSE</h3>
+                        <p>Percentage: 73.40%</p>
+                    </div>
+                </div>
+                
+                <div class="education-item">
+                    <div class="edu-year">2021 - 2022</div>
+                    <div class="edu-info">
+                        <h3>10th Standard, CBSE</h3>
+                        <p>Percentage: 79.67%</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Achievements Section -->
+    <section id="achievements" class="section bg-light">
+        <div class="container">
+            <div class="section-header">
+                <h2>Achievements</h2>
+                <div class="section-line"></div>
+            </div>
+            
+            <div class="achievements-grid">
+                <div class="achievement-item">
+                    <div class="achievement-icon">
+                        <i class="fas fa-certificate"></i>
+                    </div>
+                    <div class="achievement-content">
+                        <h3>Professional Development</h3>
+                        <ul>
+                            <li>Entrepreneurship and Innovation job simulation – 16 March 2025</li>
+                            <li>Market Research – 20 March 2025</li>
+                            <li>Use Canva to create Social media visuals for business – 6 March 2025</li>
+                            <li>Get started with Canva – 2 March 2025</li>
+                            <li>IIT DELHI WORKSHOP (Innovation and start up ideas for young minds) - 1 March 2025</li>
+                        </ul>
+                    </div>
+                </div>
+                
+                <div class="achievement-item">
+                    <div class="achievement-icon">
+                        <i class="fas fa-trophy"></i>
+                    </div>
+                    <div class="achievement-content">
+                        <h3>Competitions & Events</h3>
+                        <ul>
+                            <li>Participated in UNMAAD 2025 (IIM BANGALORE BIGGEST CULTURAL FEST) – MR UNMAAD and TREASURE HUNT</li>
+                            <li>Participated in various UNSTOP series (weekly case challenge, quiz, etc) – February 2025</li>
+                            <li>Indian navy half marathon – 5km (2025)</li>
+                            <li>Hindustan Marathon 9th Edition - 5km (2023)</li>
+                            <li>Olympiad on Ramayana – Spandan (2020)</li>
+                            <li>Fun with Science – Aspam Scottish School (2019)</li>
+                        </ul>
+                    </div>
+                </div>
+                
+                <div class="achievement-item">
+                    <div class="achievement-icon">
+                        <i class="fas fa-chess-knight"></i>
+                    </div>
+                    <div class="achievement-content">
+                        <h3>Chess Tournaments</h3>
+                        <ul>
+                            <li>Outstanding Performance in CHESS – Aspam (2019)</li>
+                            <li>Inter School CHESS Tournament – DAV (2017)</li>
+                            <li>Anniversary Cup CHESS Tournament – Target GM (2017)</li>
+                            <li>Open CHESS Tournament – ST TERESA SCHOOL (2016)</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact" class="section">
+        <div class="container">
+            <div class="section-header">
+                <h2>Contact Me</h2>
+                <div class="section-line"></div>
+            </div>
+            
+            <div class="contact-content">
+                <div class="contact-form-container">
+                    <form class="contact-form" id="contact-form">
+                        <div class="form-group">
+                            <input type="text" name="name" placeholder="Your Name" required>
+                        </div>
+                        
+                        <div class="form-group">
+                            <input type="email" name="email" placeholder="Your Email" required>
+                        </div>
+                        
+                        <div class="form-group">
+                            <input type="text" name="subject" placeholder="Subject" required>
+                        </div>
+                        
+                        <div class="form-group">
+                            <textarea name="message" placeholder="Your Message" required></textarea>
+                        </div>
+                        
+                        <button type="submit" class="submit-btn">Send Message</button>
+                    </form>
+                </div>
+                
+                <div class="contact-info-container">
+                    <div class="contact-info-item">
+                        <div class="icon">
+                            <i class="fas fa-envelope"></i>
+                        </div>
+                        <div class="details">
+                            <h3>Email</h3>
+                            <p><a href="mailto:daksh.jha24@iimb.ac.in">daksh.jha24@iimb.ac.in</a></p>
+                        </div>
+                    </div>
+                    
+                    <div class="contact-info-item">
+                        <div class="icon">
+                            <i class="fas fa-phone"></i>
+                        </div>
+                        <div class="details">
+                            <h3>Phone</h3>
+                            <p><a href="tel:+918851514262">+91 8851514262</a></p>
+                        </div>
+                    </div>
+                    
+                    <div class="contact-info-item">
+                        <div class="icon">
+                            <i class="fas fa-map-marker-alt"></i>
+                        </div>
+                        <div class="details">
+                            <h3>Address</h3>
+                            <p>RZH-707, Gali No. 4, Raj Nagar Part-2, Palam Colony, Near Sir Chhotu ram marg, New Delhi-110077</p>
+                        </div>
+                    </div>
+                    
+                    <div class="contact-info-item">
+                        <div class="icon">
+                            <i class="fas fa-user"></i>
+                        </div>
+                        <div class="details">
+                            <h3>Father's Name</h3>
+                            <p>Vikash Chandra Jha</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <div class="footer-content">
+                
+                </div>
+                <div class="footer-copyright">
+                    <p>&copy; 2025 Daksh Chandra Jha. All rights reserved.</p>
+                </div>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
